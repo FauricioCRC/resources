@@ -38,5 +38,6 @@ export default function Home() {
       </main>
     </Layout>
   );*/
+  
   return (location.href = "/docs/intro")
 }
