@@ -27,7 +27,8 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  /*const {siteConfig} = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
+  
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
@@ -37,7 +38,5 @@ export default function Home() {
         <HomepageFeatures />
       </main>
     </Layout>
-  );*/
-  
-  return (location.href = "/docs/intro")
+  );
 }
