@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
-title: Tailwind CSS
+title: Tailwind
 ---
 
-# [Tailwind CSS](https://tailwindcss.com/)
+# [Tailwind](https://tailwindcss.com/)
 
 ## Componentes
 

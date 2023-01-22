@@ -1,9 +1,8 @@
 ---
-sidebar_position: 2
-title: Librerías JS
+title: Librerías
 ---
 
-# Librerías JS
+# Librerías
 
 ## Notificaciones
 
@@ -13,3 +12,7 @@ title: Librerías JS
 ## [CDNJS](https://cdnjs.com/libraries)
 
 - [QRious](https://cdnjs.com/libraries/qrious) - Librería para generar y leer QRs.
+
+## Iconos
+
+- [FontAwesome](https://fontawesome.com/icons?d=gallery&m=free)
